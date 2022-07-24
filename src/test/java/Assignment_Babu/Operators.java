@@ -1,4 +1,4 @@
-package day1;
+package Assignment_Babu;
 
 public class Operators {
 
